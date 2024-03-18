@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cda1d3ea.css",
+    "main.js": "/static/js/main.8a01ff0e.js",
+    "static/media/breakingbad2.mp4": "/static/media/breakingbad2.da05f67c28936cd3096d.mp4",
+    "static/media/tv_animation.m4v": "/static/media/tv_animation.053994fc9a5da7a97b5b.m4v",
+    "static/media/mobile.jpg": "/static/media/mobile.063578d5b6d5ab4155ec.jpg",
+    "static/media/download-icon.gif": "/static/media/download-icon.1ce72c891b52e6f68f2f.gif",
+    "static/media/boxshot.png": "/static/media/boxshot.347f4ee3bafbdfe71112.png",
+    "static/media/tv.png": "/static/media/tv.0049bc70babc1f94cf88.png",
+    "static/media/netflix.svg": "/static/media/netflix.c8479ece65f26b534b403d0973ab101d.svg",
+    "index.html": "/index.html",
+    "main.cda1d3ea.css.map": "/static/css/main.cda1d3ea.css.map",
+    "main.8a01ff0e.js.map": "/static/js/main.8a01ff0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda1d3ea.css",
+    "static/js/main.8a01ff0e.js"
+  ]
+}
